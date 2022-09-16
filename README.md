@@ -1,6 +1,6 @@
 # PELCO_D_PTZ_Control
 
-Qt版本：5.14.2       QtCreator:4.11.1
+Qt版本：5.14.2|QtCreator:4.11.1
 
 基于Windows平台下使用C++封装PELCO_D云台镜头控制协议，通过串口RS485发送协议命令
 
